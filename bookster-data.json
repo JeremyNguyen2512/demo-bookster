@@ -5,7 +5,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/dental.jpeg",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/dental.json"
+    "importUrl": "https://demo-bookster.vercel.app/dental"
   },
   {
     "name": "barber-store",
@@ -13,7 +13,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/30shine.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/barber.json"
+    "importUrl": "https://demo-bookster.vercel.app/barber"
   },
   {
     "name": "fitness",
@@ -21,7 +21,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/finess.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/fitness.json"
+    "importUrl": "https://demo-bookster.vercel.app/fitness"
   },
   {
     "name": "yoga-center",
@@ -29,7 +29,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/yoga.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/yoga.json"
+    "importUrl": "https://demo-bookster.vercel.app/yoga"
   },
   {
     "name": "hotel-booking",
@@ -37,7 +37,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/hotel.jpeg",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/hotel.json"
+    "importUrl": "https://demo-bookster.vercel.app/hotel"
   },
   {
     "name": "yoga-center",
@@ -45,7 +45,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/yoga.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/yoga.json"
+    "importUrl": "https://demo-bookster.vercel.app/yoga"
   },
   {
     "name": "dental-clinic",
@@ -53,7 +53,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/dental.jpeg",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/dental.json"
+    "importUrl": "https://demo-bookster.vercel.app/dental"
   },
   {
     "name": "fitness",
@@ -61,7 +61,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/finess.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/fitness.json"
+    "importUrl": "https://demo-bookster.vercel.app/fitness"
   },
   {
     "name": "hotel-booking",
@@ -69,7 +69,7 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/hotel.jpeg",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/hotel.json"
+    "importUrl": "https://demo-bookster.vercel.app/hotel"
   },
   {
     "name": "barber-store",
@@ -77,6 +77,6 @@
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/30shine.png",
     "previewUrl": "https://wpbookster.com",
-    "importUrl": "https://demo-bookster.vercel.app/barber.json"
+    "importUrl": "https://demo-bookster.vercel.app/barber"
   }
 ]
