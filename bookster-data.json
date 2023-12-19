@@ -24,7 +24,7 @@
     "importUrl": "https://demo-bookster.vercel.app/fitness"
   },
   {
-    "name": "yoga-center",
+    "name": "yoga",
     "title": "Yoga Center",
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/yoga.png",
@@ -48,7 +48,7 @@
     "importUrl": "https://demo-bookster.vercel.app/yoga"
   },
   {
-    "name": "dental-clinic",
+    "name": "dental",
     "title": "Dental Clinic",
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
     "coverImage": "https://bookster.test/wp-content/uploads/2023/12/dental.jpeg",
