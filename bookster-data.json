@@ -35,7 +35,7 @@
     "name": "hotel",
     "title": "Hotel Booking",
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
-    "coverImage": "hhttps://putadesign.vn/wp-content/uploads/2023/03/home-scaled.jpg",
+    "coverImage": "https://putadesign.vn/wp-content/uploads/2023/03/home-scaled.jpg",
     "previewUrl": "https://wpbookster.com",
     "importUrl": "https://demo-bookster.vercel.app/hotel"
   },
@@ -67,7 +67,7 @@
     "name": "hotel",
     "title": "Hotel Booking",
     "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s...",
-    "coverImage": "hhttps://putadesign.vn/wp-content/uploads/2023/03/home-scaled.jpg",
+    "coverImage": "https://putadesign.vn/wp-content/uploads/2023/03/home-scaled.jpg",
     "previewUrl": "https://wpbookster.com",
     "importUrl": "https://demo-bookster.vercel.app/hotel"
   },
