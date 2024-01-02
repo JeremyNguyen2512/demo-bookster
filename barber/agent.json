@@ -1,0 +1,40 @@
+[
+    {
+      "activated": true,
+      "available_agent_services": [],
+      "avatar_id": null,
+      "dayoff_schedule": null,
+      "dayoff_schedule_enabled": false,
+      "first_name": "Oribe",
+      "last_name": "Jhon",
+      "phone": "+0123456789",
+      "priority": 10,
+      "visibility": "public",
+      "weekly_schedule_enabled": false
+    },
+    {
+      "activated": true,
+      "available_agent_services": [],
+      "avatar_id": null,
+      "dayoff_schedule": null,
+      "dayoff_schedule_enabled": false,
+      "first_name": "Serge",
+      "last_name": "Normant",
+      "phone": "+0987654321",
+      "priority": 10,
+      "visibility": "public",
+      "weekly_schedule_enabled": false
+    },
+    {
+      "activated": true,
+      "available_agent_services": [],
+      "avatar_id": null,
+      "dayoff_schedule": null,
+      "dayoff_schedule_enabled": false,
+      "first_name": "Chris",
+      "last_name": "McMillan",
+      "phone": "+01423858982",
+      "priority": 10,
+      "visibility": "public",
+      "weekly_schedule_enabled": false
+    }
