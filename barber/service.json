@@ -1,0 +1,37 @@
+[
+    {
+      "cate": {
+        "name": "Japan Hair Cut",
+        "description": ""
+      },
+      "services": [
+        {
+          "name": "Yua Mikami",
+          "description": "",
+          "service_category_id": 0,
+          "theme_color": "#66cc8a",
+          "price": "100.00",
+          "duration": 30,
+          "buffer_before": 0,
+          "buffer_after": 0,
+          "activated": true,
+          "visibility": "public",
+          "available_agent_services": []
+        }
+      ]
+    },
+    {
+      "cate": {
+        "name": "USA Hair Cut",
+        "description": ""
+      },
+      "services": [{}]
+    },
+    {
+      "cate": {
+        "name": "Russian Hair Cut",
+        "description": ""
+      },
+      "services": [{}]
+    }
+  ],
